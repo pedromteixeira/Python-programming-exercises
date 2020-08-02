@@ -2374,3 +2374,30 @@ print solutions
 #----------------------------------------#
 
 
+## Exercício Aula 1
+
+Calcular a média dos elementos de uma lista
+
+lista_exercicio = [30, 17, 47, 37, 34, 45, 5, 45, 48, 22, 10, 18, 2, 48, 47, 9, 17, 43, 46, 37]
+
+## Exercícios - Monitoria
+
+### Listas  
+
+Dica: Usem o '?' sem parcimônia
+
+lista_para_casa = [75, 56, 15, 1, 37, 19, 41, 66, 74, 64, 2, 66, 20, 13, 9, 40,17, 22, 92, 57]
+
+a) Insira o número 54 elemento da posição 4 
+
+b) A média da lista até agora é um elemento da lista? Se, sim indique qual a posição.
+
+c) Adicione à lista até agora uma outra lista: [1,5,10]
+
+d) Adicione à lista até agora apenas os elementos da lista do item **c)**.
+
+e) Exclua o primeiro e o último elemento da lista até agora.
+
+f) O primeiro elemento da lista até agora é par? Use o operador apropriado
+
+g) Inverta a ordem da lista
